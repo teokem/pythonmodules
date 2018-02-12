@@ -1,2 +1,3 @@
-def masscenter():
+def massCenter():
+    ''' Calculates the mass center '''
     print('com')
