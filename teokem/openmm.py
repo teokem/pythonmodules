@@ -1,0 +1,2 @@
+def masscenter():
+    print('com')
