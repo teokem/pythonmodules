@@ -2,5 +2,5 @@
 
 Example:
 
-    import teokem
+    import teokem.openmm
     teokem.openmm.massCenter()
